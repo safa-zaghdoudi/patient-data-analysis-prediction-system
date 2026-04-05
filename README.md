@@ -145,7 +145,7 @@ Entry point for testing all components.
 
 ```bash
 # Clone the repository
-git clone https://github.com/safa-zaghdoudi/patient-data-analysis-prediction-system.git
+git clone https://github.com/safa-zaghdoudi/Patient-data-analysis-prediction-system.git
 cd patient-data-analysis-prediction-system
 ```
 
