@@ -73,7 +73,7 @@ patient-data-analysis-prediction-system/
 │   └── Main.java                # Entry point / testing
 ├── data/
 │   └── diabetes_dataset.csv     # Patient dataset
-├── Project Report Safa Zaghdoudi.pdf
+├── Project Report.pdf
 └── README.md
 ```
 
